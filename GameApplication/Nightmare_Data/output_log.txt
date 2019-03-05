@@ -1,0 +1,38 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 23.21.13.8857]
+    Renderer: NVIDIA GeForce MX150
+    Vendor:   NVIDIA
+    VRAM:     1994 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\xujia\Desktop\Github\Nightmare\Game Application\Nightmare_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\xujia\Desktop\Github\Nightmare\Game Application\Nightmare_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\xujia\Desktop\Github\Nightmare\Game Application\Nightmare_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\xujia\Desktop\Github\Nightmare\Game Application\Nightmare_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\xujia\Desktop\Github\Nightmare\Game Application\Nightmare_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\xujia\Desktop\Github\Nightmare\Game Application\Nightmare_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\xujia\Desktop\Github\Nightmare\Game Application\Nightmare_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.108299 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2897.
+Total: 1.534860 ms (FindLiveObjects: 0.203093 ms CreateObjectMapping: 0.024462 ms MarkObjects: 0.214470 ms  DeleteObjects: 0.065422 ms)
+
+UnloadTime: 5.880027 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2893.
+Total: 1.707802 ms (FindLiveObjects: 0.121742 ms CreateObjectMapping: 0.029582 ms MarkObjects: 0.302079 ms  DeleteObjects: 0.034133 ms)
+
+UnloadTime: 8.754618 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 273 unused Assets to reduce memory usage. Loaded Objects now: 2202.
+Total: 4.166536 ms (FindLiveObjects: 0.187733 ms CreateObjectMapping: 0.071111 ms MarkObjects: 0.546132 ms  DeleteObjects: 0.812941 ms)
+
